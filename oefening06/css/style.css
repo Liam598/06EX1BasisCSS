@@ -1,0 +1,25 @@
+/*Combinatieselectors: descendant - child - sibling selectors*/
+
+body{
+    background-color: lightgray;
+    font-family: monospace, Calibri, sans-serif;
+}
+
+/* alle paragrafen van de main doorstrepen*/
+
+
+/* alle links van de aside niet onderlijnt en in het wit */
+
+
+/* alle links die rechtstreeks afstammen van een article italic en rood weergeven */
+
+
+/* Alle li die behoren tot een geneste lijst in het geel weergeven - geef twee oplossingen*/
+
+/*
+De paragraaf in het tweede article moet bold worden en niet doorstreept.
+*/
+
+
+/* Alle links die rechtstreeks afstammen van een li achtergrond in het blauw*/
+

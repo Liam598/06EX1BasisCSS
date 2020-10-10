@@ -1,0 +1,45 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+/* 
+Voeg de juiste selectors en stijlregels toe.
+Let op de uitlijning van de table cellen (text-align).
+Volgende kleuren worden gebruikt:
+tekst: #4a4a4d;
+border: #cecfd5;
+achtergrond heading table: #395870;
+tekst heading table: white;
+tekst item titel en auteur : #395870;
+rest tekst item: #7c7c80; lettergrootte: 12px;
+achtergrond even rijen en laatste rij:  #f0f0f2;
+tekst laatste rij: #395870; en bold.
+*/
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    color: #4a4a4d;
+    font-size: 14px;
+}
+
+table, th, td {
+     border: 1px solid #cecfd5;
+}
+
+th,
+td {
+    padding: 10px 15px;
+    vertical-align: middle;
+}
+
+thead {
+    
+    font-size: 11px;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
