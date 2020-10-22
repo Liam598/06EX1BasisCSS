@@ -8,7 +8,7 @@ Deze oefeningen geven je de kans om de leerstof van Hoofdstuk 8 in het handboek 
             
 Per oefening is er een map aangemaakt met daarin een **index.html** en een map **css** die het externe css bestand bevat **style.css**.     
 De HTML mag niet gewijzigd te worden, tenzij expliciet anders vermeld.   
-De opgave van de oefeningen staan meestal in het css bestand in de map CSS.      
+De opgave van de oefeningen staat meestal in het css bestand in de map CSS.      
 
 -----
 
@@ -68,7 +68,7 @@ Eindresultaat.
 
 Open de map oefening05. De opgave staat in de *style.css*.           
 Het resultaat moet hetzelfde zijn als de vorige oefening maar 
-nu zonder class attributen toe te voegen. Maak dus enkel gebruik van pseudoclass selectors.       
+nu zonder class attributen toe te voegen. Maak dus **geen** gebruik van **class selectors**.       
 
 Eindresultaat: zie hierboven.
         
@@ -105,5 +105,5 @@ De gebruikte kleuren zijn:
     - tweede rij: lightgreen               
     - derde rij: lightyellow                  
     - vierde rij: lightgray                             
-De eerste rij is minimaal 150 px breed en de tweede rij minimaal 300px breed (*min-width: value;*).      
+De eerste kolom is minimaal 150 px breed en de tweede kolom minimaal 300px breed (*min-width: value;*).      
   

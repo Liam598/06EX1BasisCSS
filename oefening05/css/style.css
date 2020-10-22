@@ -7,23 +7,14 @@ body{
     nu zonder class attributen toe te voegen*/
 
 /* de content van de eerste h2 en de tweede li worden in het rood weergegeven*/
-article:first-of-type h2, li:nth-child(2){
-    color: red;
-}
+
 
 /* Alle tweede li's mogen geen lijst markering tonen (bolletje)*/
-li:nth-child(2){
-    list-style: none;
-}
+
 
 /* alle paragrafen het lettertype Courier */
-p{
-    font-family: Courier;
-}
 
-/* De laatste paragraaf van de aside in het #128956 en bold*/
-aside p:last-child{
-    color: #128956;
-    font-weight: bold;
-}
+
+/* De laatste paragraaf van de aside in het #128956 (kleur) en bold*/
+
 
